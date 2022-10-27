@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://toigingiuvedep.vn/wp-content/uploads/2021/08/nhung-background-book-background-sach-dep-day-an-tuong.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}table {
+
+     font-family: "Times New Roman", sans-serif;
+     border-collapse: collapse;
+
+ }
+td {
+    border: 0px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #F5F5F5;
+}
+
+
+
